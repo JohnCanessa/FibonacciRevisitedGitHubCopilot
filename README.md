@@ -9,7 +9,7 @@ It underwent several passes.
 If you are interested in additional comments, I invite
 you to read the following post in my blg:
 
-<T.B.D.>
+https://www.johncanessa.com/2023/05/06/fibonacci-revisited-using-github-copilot/
 
 Keep in mind that one of the best ways to learn is to read,
 experiment, and repeat. Memorization is not the best approach.
